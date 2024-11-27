@@ -1,0 +1,29 @@
+.primery_btn{
+    background-color: #000;
+    color: #fff;
+    margin: 25px 30px 10px 30px;
+    height: 50px;
+    width: 40%;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 8px;
+}
+.secondary_btn{
+    background-color: #fff;
+    color: #000;
+    height: 50px;
+    width: 90%;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 8px;
+}
+.third{
+   
+    margin-left: 60%;
+}

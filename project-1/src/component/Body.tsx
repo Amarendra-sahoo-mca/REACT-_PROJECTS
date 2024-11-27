@@ -13,7 +13,7 @@ return(
                 <div className='info'>Also Available On</div>
                 <div className="app_icon">
                 <img src="public\images\flipkart.png" alt="" />
-                <img src="public\images\\amazon.png" alt="" />
+                <img src="public\images\amazon.png" alt="" />
                 </div>
             </div>
         </div>

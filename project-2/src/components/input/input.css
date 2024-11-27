@@ -1,0 +1,23 @@
+.input{
+    /* background-color: #f0f; */
+    height: 100px;
+    width: 100%;
+}
+.input > label{
+    position: absolute;
+    left: 15%;
+    margin-top: 16px;
+    background-color: #fff;
+    font-weight: bold;
+}
+.abc{
+    font-size: medium;
+    padding-left: 20px;
+    /* position: relative; */
+    height: 50px;
+    width: 86%;
+    margin: 25px 0%;
+    /* background-color: #0ff; */
+    border: 1px solid rgba(0, 0, 0, 0.512);
+    border-radius: 8px;
+}
